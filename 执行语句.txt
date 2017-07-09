@@ -1,0 +1,5 @@
+alter table `#@__arctype` add `typeimg` char(100) NOT NULL default '';
+alter table `#@__arctype` add `typetitle` char(100) NOT NULL default '';
+alter table `#@__arctype` add `typepic` char(100) NOT NULL default '';
+alter table `#@__arctype` add `typeico` char(100) NOT NULL default '';
+alter table `#@__arctype` add `typestitle` char(100) NOT NULL default '';
